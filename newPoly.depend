@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1509720692 source:c:\users\matthew\desktop\newpoly\boundingbox.cpp
+	"BoundingBox.h"
+
+1509720692 c:\users\matthew\desktop\newpoly\boundingbox.h
+	"Point.h"
+
+1509720692 c:\users\matthew\desktop\newpoly\point.h
+	<iostream>
+
+1509725646 source:c:\users\matthew\desktop\newpoly\composite.cpp
+	"Polyhedron.h"
+	"Composite.h"
+
+1509720692 c:\users\matthew\desktop\newpoly\polyhedron.h
+	<cmath>
+	<cstdlib>
+	<iostream>
+	<string>
+	"Point.h"
+	"BoundingBox.h"
+
+1509720692 c:\users\matthew\desktop\newpoly\composite.h
+	"Polyhedron.h"
+
+1509735023 source:c:\users\matthew\desktop\newpoly\createpolyhedra.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<vector>
+	"Polyhedron.h"
+	"PolyhedronFactory.h"
+
+1509720692 c:\users\matthew\desktop\newpoly\polyhedronfactory.h
+	<iostream>
+
+1509739607 source:c:\users\matthew\desktop\newpoly\cylinder.cpp
+	"Cylinder.h"
+
+1509739724 c:\users\matthew\desktop\newpoly\cylinder.h
+	"Polyhedron.h"
+
+1509720692 source:c:\users\matthew\desktop\newpoly\point.cpp
+	"Point.h"
+
+1509720692 source:c:\users\matthew\desktop\newpoly\polyhedron.cpp
+	"Polyhedron.h"
+	"PolyhedronFactory.h"
+
+1509720692 source:c:\users\matthew\desktop\newpoly\polyhedronfactory.cpp
+	"PolyhedronFactory.h"
+	"Sphere.h"
+	"Cylinder.h"
+	"Composite.h"
+
+1509720692 c:\users\matthew\desktop\newpoly\sphere.h
+	"Polyhedron.h"
+
+1509720692 source:c:\users\matthew\desktop\newpoly\sphere.cpp
+	"Sphere.h"
+
